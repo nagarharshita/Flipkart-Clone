@@ -3,11 +3,11 @@ This project is designed to showcase my web development skills and is not intend
 <h1>Features</h1>
 <ul>
 <li>User registration and login</li>
-</li>Browsing and searching for products</li>
-</li>Adding products to the cart</li>
-</li>Checkout and payment processing</li>
-</li>Product reviews and ratings</li>
-</li>Order history and tracking</li>
+<li>Browsing and searching for products</li>
+<li>Adding products to the cart</li>
+<li>Checkout and payment processing</li>
+<li>Product reviews and ratings</li>
+<li>Order history and tracking</li>
 </ul>
 <h1>Technologies Used</h1>
 <ul>
